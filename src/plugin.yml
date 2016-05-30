@@ -1,0 +1,8 @@
+name: Maintenance
+version: 1.0
+main: me.playincodmc.maintenance.Main
+author: PlayinCODMC
+description: Maintenance plugin
+commands:
+  maintenance:
+    aliases: [mn]
